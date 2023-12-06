@@ -26,29 +26,29 @@ Hi, I'm Om. I'm a senior in computer science at UIUC currently working on system
 **[Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.](assets/serval.pdf)**
 Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
 
-**[. USENIX NSDI 2024.](assets/serval.pdf)**
-Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
+**[PicoNet: A Network Stack for Next Generation IoT Satellite Networks. Submitted to USENIX NSDI 2024](assets/piconet.pdf)**
+Shenoy, J., <u>Chabra, O.</u>, Chakraborty, T., Jog, S., Vasisht, D., Chandra, R.
 
-**[Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.](assets/serval.pdf)**
-Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
+**[Spectrumize: Spectrum-efficient Satellite Networks for the Internet of Things. USENIX NSDI 2024](assets/spectrumize.pdf)**
+Singh, V., Chakraborty, T., Jog, S., <u>Chabra, O.</u>, Vasisht, D., Chandra, R.
 
-**[Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.](assets/serval.pdf)**
-Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
+**[OrbitalBrain: Harnessing Distributed Training in Space under Stringent Physical Constraints. Submitted to MLSys 2024](assets/orbitalbrain.pdf)**
+Chenning, L., Hsieh, K., <u>Chabra, O.</u>, Segarra, S., Arzani, B., Olsen, P., Chandra, R.
 
-**[Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.](assets/serval.pdf)**
-Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
+**[Protecting Refugee Camps From COVID-19: The Case Of Northwest Syria. A policy report by the PaxSyriana Foundation](assets/policyreport.pdf)**
+Sarkis, C., Pascual-García, A., Klein, J., Campillo-Funollet, E., Villers, J., Naidoo, M., Garcia-Sanchez, J., <u>Chabra, O.</u>, Amzil, S., Shelton, C.
 
-**[Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.](assets/serval.pdf)**
-Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
+**[Constraining the Regolith Composition of Asteroid (16) Psyche via Laboratory Visible Near-infrared Spectroscopy. The Planetary Science Journal](https://iopscience.iop.org/article/10.3847/PSJ/abf63b)**
+Cantillo, D.C., Reddy, V., Sharkey, B.N., Pearson, N.A., Sanchez, J.A., Izawa, M.R., Kareta, T., Campbell, T.S. and <u>Chabra, O</u>.
 
-**[Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.](assets/serval.pdf)**
-Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
+**Spectral Investigation of Anomalous Metal-Rich Chondrite Northwest Africa (NWA) 12273: Implications for Asteroid (16) Psyche. 50th Lunar and Planetary Science Conference**
+Reddy, V., Pearson, N., Agee, C. B., Cantillo, D. C., Le Corre, L., Campbell, T., <u>Chabra, O</u>.
 
-**[Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.](assets/serval.pdf)**
-Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
+**Spectral Characteristics of Ordinary Chondrite Impact Melts, 50th Lunar and Planetary Science Conference**
+Sanchez, J. A., Reddy, V., Le Corre, L., Campbell, T., <u>Chabra, O</u>.
 
-**[Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.](assets/serval.pdf)**
-Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
+**Constraining Exogenic Carbonaceous Material Abundance on (16) Psyche from Laboratory Spectral Measurements, 50th Lunar and Planetary Science Conference**
+Cantillo, D. C., Reddy, V., Pearson, N., Sanchez, J. A., Takir, D., Campbell, T., <u>Chabra, O</u>.
 
 ## Experience ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
