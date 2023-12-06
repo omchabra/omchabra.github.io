@@ -23,7 +23,32 @@ Hi, I'm Om. I'm a senior in computer science at UIUC currently working on system
 ## Publications ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
 
-**Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.**
+**[Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.](assets/serval.pdf)**
+Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
+
+**[. USENIX NSDI 2024.](assets/serval.pdf)**
+Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
+
+**[Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.](assets/serval.pdf)**
+Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
+
+**[Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.](assets/serval.pdf)**
+Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
+
+**[Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.](assets/serval.pdf)**
+Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
+
+**[Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.](assets/serval.pdf)**
+Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
+
+**[Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.](assets/serval.pdf)**
+Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
+
+**[Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.](assets/serval.pdf)**
+Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
+
+**[Near-realtime Earth Observation Via Query Bifurcation in Serval. USENIX NSDI 2024.](assets/serval.pdf)**
+Tao, B., <u>Chabra, O.</u>, Javeja, I., Gupta, I., Vasisht, D.
 
 ## Experience ##
 <hr style="margin-top:-1em; margin-bottom:1em; height:2px; background-color:black; border:none" />
