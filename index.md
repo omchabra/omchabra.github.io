@@ -44,13 +44,13 @@ Sarkis, C., Pascual-García, A., Klein, J., Campillo-Funollet, E., Villers, J., 
 **[Constraining the Regolith Composition of Asteroid (16) Psyche via Laboratory Visible Near-infrared Spectroscopy. The Planetary Science Journal](https://iopscience.iop.org/article/10.3847/PSJ/abf63b)** \
 Cantillo, D.C., Reddy, V., Sharkey, B.N., Pearson, N.A., Sanchez, J.A., Izawa, M.R., Kareta, T., Campbell, T.S. and <u>Chabra, O</u>.
 
-**Spectral Investigation of Anomalous Metal-Rich Chondrite Northwest Africa (NWA) 12273: Implications for Asteroid (16) Psyche. 50th Lunar and Planetary Science Conference** \
+**[Spectral Investigation of Anomalous Metal-Rich Chondrite Northwest Africa (NWA) 12273: Implications for Asteroid (16) Psyche. 50th Lunar and Planetary Science Conference](https://www.hou.usra.edu/meetings/lpsc2019/pdf/2212.pdf)** \
 Reddy, V., Pearson, N., Agee, C. B., Cantillo, D. C., Le Corre, L., Campbell, T., <u>Chabra, O</u>.
 
-**Spectral Characteristics of Ordinary Chondrite Impact Melts, 50th Lunar and Planetary Science Conference** \
+**[Spectral Characteristics of Ordinary Chondrite Impact Melts, 50th Lunar and Planetary Science Conference](https://www.hou.usra.edu/meetings/lpsc2019/pdf/1594.pdf)** \
 Sanchez, J. A., Reddy, V., Le Corre, L., Campbell, T., <u>Chabra, O</u>.
 
-**Constraining Exogenic Carbonaceous Material Abundance on (16) Psyche from Laboratory Spectral Measurements, 50th Lunar and Planetary Science Conference** \
+**[Constraining Exogenic Carbonaceous Material Abundance on (16) Psyche from Laboratory Spectral Measurements, 50th Lunar and Planetary Science Conference](https://www.hou.usra.edu/meetings/lpsc2019/pdf/1703.pdf)** \
 Cantillo, D. C., Reddy, V., Pearson, N., Sanchez, J. A., Takir, D., Campbell, T., <u>Chabra, O</u>.
 
 ## Experience ##
